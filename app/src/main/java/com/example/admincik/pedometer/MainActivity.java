@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
     TextView tvCountSteps;
 
     private int countSteps;
-
     private final static String INTENT_ACTION = "PedometerUpdate";
     private final static String EXTRA_NAME = "steps";
     private final static String EXTRA_NAME_ERROR = "error";
